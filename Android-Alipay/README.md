@@ -1,8 +1,10 @@
-# Android接入支付宝移动支付功能
+# [Android接入支付宝移动支付功能](http://dkylin.com/archives/android-alipay-tutorial.html)
 
 在之前的“动高服务”App的项目开发中，在支付模块使用了三种支付方式：我的钱包支付、支付宝支付、微信支付。
 
-本篇博客对支付宝支付的接入开发过程做了整理总结。
+下面整理总结了Android接入支付宝支付功能的过程。
+
+[博客地址](http://dkylin.com/archives/android-alipay-tutorial.html)
 
 ## 开发准备
 
